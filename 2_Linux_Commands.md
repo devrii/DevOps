@@ -205,7 +205,7 @@ Discards error messages.
 
 | Command                        | Explanation                         |                     |
 | ------------------------------ | ----------------------------------- | ------------------- |
-| `ls                            | wc -l`                              | Counts listed files |
+| `ls`                           | wc -l                              | Counts listed files |
 | `cat file.txt \| grep "hello"` | Searches text in file               |                     |
 | `tee file.txt`                 | Saves output and prints on terminal |                     |
 
